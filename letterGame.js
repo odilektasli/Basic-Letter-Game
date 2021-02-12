@@ -10,7 +10,6 @@ h2.appendChild(scoreText);
 document.getElementById("score-text").appendChild(h2);
 
 initializeScore();
-h1.classList.add("increase-size");
 
 function initializeScore() {
   if (currentScore == 0) {
