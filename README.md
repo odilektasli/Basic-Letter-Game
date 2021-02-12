@@ -1,2 +1,2 @@
 # Letter Game
- 
+ To understand funcamentals of JavaScript I created this game. It just randomly generates letters and if you press the generated letter from keybord your score increase and another letter generates. If you can not press correct letter from keyboard your score becomes zero...
